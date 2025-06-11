@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anvitha Acharya</h1>
 <h3 align="center">An Information Science student passionate about full stack development, UI-UX and anything related to Biology :)</h3>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Blockchain technology**
 
 - 📫 How to reach me **anvitha.acharya2k4@gmail.com**
 
